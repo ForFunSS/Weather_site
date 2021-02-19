@@ -1,0 +1,5 @@
+@media all and (orientation: landscape), all and (min-width: 320px) {
+  .image_phone_main{
+    margin-top: 50px;
+  }
+}
